@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,mp.daosy.online,Proxy
-DOMAIN-SUFFIX,qbt.daosy.online,Proxy
-DOMAIN-SUFFIX,emby.daosy.online,Proxy
-DOMAIN-SUFFIX,vt.daosy.online,Proxy
+DOMAIN-SUFFIX,mp.daosy.online,DIRECT
+DOMAIN-SUFFIX,qbt.daosy.online,DIRECT
+DOMAIN-SUFFIX,emby.daosy.online,DIRECT
+DOMAIN-SUFFIX,vt.daosy.online,DIRECT
